@@ -11,6 +11,6 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 **Project description:**
 
-A theory by political scientists, known as the six-year itch, refers to the election during the incumbent President's sixth year in office wherein the party that holds the White House loses a significant number of House and Senate seats. This could be because a President in their second term does not need to worry about being reelected and therefore does not push for economic growth. This could create pessimism in the market that is reflected in stock prices. Through the lens of stock prices, I would like to study the impact of the six-year itch on market optimism. My research topic and graphs are inspired from [this](https://www.affiancefinancial.com/node/147682) article.
+A theory by political scientists, known as the six-year itch, refers to the election during the incumbent President's sixth year in office wherein the party that holds the White House loses a significant number of House and Senate seats. This could be because a President in their second term does not need to worry about being reelected and therefore does not push for economic growth. This could create pessimism in the market that is reflected in stock prices. Through the lens of stock prices, I would like to study the impact of the six-year itch on market optimism. My research topic and graphs are inspired by [this](https://www.affiancefinancial.com/node/147682) article.
 
 My project can be found [here](https://github.com/shagunvarma27/data_bootcamp_final_project).
