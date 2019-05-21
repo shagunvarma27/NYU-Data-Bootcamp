@@ -15,6 +15,7 @@ A theory by political scientists, known as the six-year itch, refers to the phen
 - A graph matching stock market crashes with the President at the time
 - A graph showing stock market returns by year of Presidency
 - A graph analyzing the VIX during the 2008 financial crisis.
+
 My research topic and graphs are inspired by [this](https://www.affiancefinancial.com/node/147682) article.
 
 My project can be found [here](https://github.com/shagunvarma27/data_bootcamp_final_project).
