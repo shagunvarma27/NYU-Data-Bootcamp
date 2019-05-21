@@ -11,6 +11,8 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 **Project description:**
 
+**Question:** Does stock market performance support the "Six-Year Itch" theory?
+
 A theory by political scientists, known as the six-year itch, refers to the phenomenon during the incumbent President's sixth year in office wherein the incumbent party loses a significant number of House and Senate seats. This could be because a President in their second term is not concerned about reelection and therefore does not push for economic growth. This could create pessimism in the market that is reflected in stock prices. Through the lens of stock prices, I would like to study the impact of the six-year itch on market optimism. I created three graphs:
 - A graph matching stock market crashes with the President at the time
 - A graph showing stock market returns by year of Presidency
